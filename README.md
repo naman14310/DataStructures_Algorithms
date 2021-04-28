@@ -2,7 +2,11 @@
 
 This repository contains well formatted code for implementation of various basic and advance data structures and algo patterns that I have implemented in 1st year @ IIIT Hyderabad. Please feel free to contribute or report any bug/error in this repo. 
 
+#### Languages : C++, Python, Java
+
 ## Contents
+
+PS : use below index to jump on any particular topic.
 
 ### Basic Data Structures and Algorithms
 
@@ -54,4 +58,5 @@ This repository contains well formatted code for implementation of various basic
 
 #### Leetcode ► https://leetcode.com/namanjain14310/
 #### LinkedIn ► https://www.linkedin.com/in/jain-naman/
+
 
